@@ -17,7 +17,11 @@ samples, guidance on mobile development, and a full API reference.
 #� �r�i�v�e�r�p�o�d�-�r�e�s�t�f�u�l�-�a�p�i�
 �
 �
+
+RİVERPOD STATE MANAGEMENT YÖNTTEMİ İLE RESTFUL APİ'DEN VERİLERİ ÇEKİP BASİT BİR UYGULAMA TASARIMI İLE BÜTÜNLEŞTİRDİM.
+
 ![Screenshot_1683197251](https://user-images.githubusercontent.com/115476387/236183575-1678cb23-6cc1-4861-93e9-d29f2f9b500f.png)
+
 
 
 
