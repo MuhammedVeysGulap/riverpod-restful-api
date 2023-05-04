@@ -26,4 +26,9 @@ RİVERPOD STATE MANAGEMENT YÖNTTEMİ İLE RESTFUL APİ'DEN VERİLERİ ÇEKİP B
 
 
 ![Screenshot_1683197263](https://user-images.githubusercontent.com/115476387/236183604-b5f04abc-5d6d-448d-8b63-ba0286f01df6.png)
-[screen-capture.webm](https://user-images.githubusercontent.com/115476387/236188142-3aa37a05-2980-4ead-b25a-9f7b054ee065.webm)
+
+
+
+[screen-capture.webm](https://user-images.githubusercontent.com/115476387/236189276-db3854ae-c784-42be-9ac7-2dc6929c8990.webm)
+
+
